@@ -3,10 +3,14 @@
 <p align="center">
   <img src="/api/placeholder/800/200" alt="banner" />
 </p>
-Linkedin: https://www.linkedin.com/in/shreyaskulkarniprofile/
+
+https://shreyaskulkarni.framer.website/
+
 ☁️ Cloud enthusiast | 🎨 UI/UX craftsman | 🚀 Full-stack wizard | 🌐 Distributed systems nerd
 
 Currently brewing tech magic at Northeastern University while pursuing my Master's in Information Systems. When I'm not pushing pixels or debugging distributed systems, you'll find me contributing to Kubernetes or winning hackathons! 
+
+Linkedin: https://www.linkedin.com/in/shreyaskulkarniprofile/
 
 ## 🛠️ Tech Arsenal
 
